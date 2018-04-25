@@ -1,7 +1,7 @@
 #Downloading data using News API, opening the data file and converting a JSON file as a csv
 
 #Download and save the API data as a JSON file, while using the terminal curl command:
-#curl -o boom.json "https://newsapi.org/v2/top-headlines?country=us&category=business&q=boom&from=2018-01-09&to=2018-02-09&apiKey=e76a07388cad49b49075abced2862f3d"
+#curl -o boom.json "https://newsapi.org/v2/top-headlines?country=us&category=business&q=boom&from=2018-01-09&to=2018-02-09&apiKey=INSERT_KEY"
 
 #In the relevant directory, run the following script to convert to CSV (using Pandas):
 
